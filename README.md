@@ -2,7 +2,7 @@
 
 #### Hi, how are you?! Olá, tudo bem?! 
 
-My name is Mirian, but you can call me zagvii! I’m interested in front-end development, therefore i know a little bit of **HTML**, **CSS**, **PHP** and also **SQL**.
+My name is Mirian, but you can call me zagvii! I’m interested in front-end development, therefore i know **HTML**, **CSS**, **PHP** and also **SQL**.
 
 - 🛠️ I’m currently learning JavaScript.
 - 🍃 Pronouns: She/Her
