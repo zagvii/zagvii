@@ -4,12 +4,12 @@
 
 ![flor](https://img.shields.io/badge/🌱-blooming-green)
 
-My name is Mirian, but you can call me zagvii! I’m interested in front-end development, therefore i know **HTML**, **CSS**, **PHP** and also **SQL**.
+My name is Mirian, but you can call me zagvii! I’m a full stack developer and I currently work with the following technologies: **HTML**, **CSS**, **JavaScript**, **PHP** and **SQL**.
 
 - 🛠️ I’m currently learning JavaScript.
 - 🍃 Pronouns: She/Her
 - 💻 How to Reach Me: [Linkedin](www.linkedin.com/in/zagvii)
-- ✨ 2023 Goals: Become a fully front-end developer.
+- ✨ 2025 Goals: Learn more about UI/UX.
 - My BIG PHP Project: [Daily Class](https://daily-class.000webhostapp.com)
 - 🐶 Fun Fact: I love animais! My favorite book is A Hora da Estrela by Clarice Lispector.
 
