@@ -6,7 +6,7 @@
 
 My name is Mirian, but you can call me zagvii! I’m a full stack developer and I currently work with the following technologies: **HTML**, **CSS**, **JavaScript**, **PHP** and **SQL**.
 
-- 🛠️ I’m currently learning JavaScript.
+- 🛠️ I’m currently learning React.
 - 🍃 Pronouns: She/Her
 - 💻 How to Reach Me: [Linkedin](www.linkedin.com/in/zagvii)
 - ✨ 2025 Goals: Learn more about UI/UX.
