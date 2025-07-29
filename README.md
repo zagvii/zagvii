@@ -4,9 +4,9 @@
 
 ![flor](https://img.shields.io/badge/🌱-blooming-green)
 
-My name is Mirian! I’m a full stack developer and I currently work with the following technologies: **HTML**, **CSS**, **JavaScript**, **PHP** and **SQL**.
+My name is Mirian! I’m a full stack developer and I currently work with the following technologies: **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL** and **Java**.
 
-- 🛠️ I’m currently learning React.
+- 🛠️ I’m currently learning React and leveling up my Java skills.
 - 🍃 Pronouns: She/Her
 - 💻 How to Reach Me: [Linkedin](www.linkedin.com/in/zagvii)
 - ✨ 2025 Goals: Learn more about UI/UX.
