@@ -21,4 +21,4 @@ My name is Mirian! I’m a full stack developer and I currently work with the fo
 
 ## GitHub Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagvii&layout=compact)](https://github.com/zagvii/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=zagvii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
